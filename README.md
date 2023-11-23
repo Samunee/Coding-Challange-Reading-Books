@@ -10,10 +10,10 @@ Output <br>
 Total waktu minimum yang diperlukan untuk membaca semua buku berdasarkan waktu yang diinputkan.
 
 Contoh Penggunaan <br>
-Jika pengguna memasukkan jumlah buku: 3 dan waktu membaca buku secara berturut-turut adalah 2, 8, dan 3, maka outputnya adalah Total waktu minimum yang diperlukan: 16.
+Jika pengguna memasukkan jumlah buku: 3 dan waktu membaca buku secara berturut-turut adalah 2, 8, dan 3, <br> maka outputnya adalah Total waktu minimum yang diperlukan: 16.
 
 Implementasi Kode <br>
 Kode yang disediakan menghitung total waktu minimum untuk membaca semua buku dengan mengurutkan waktu yang dibutuhkan dan menjumlahkan waktu kecuali untuk buku terakhir.
 
 Dokumentasi Kode <br>
-Setiap baris kode didokumentasikan secara ringkas namun jelas menggunakan komentar. Pengguna diminta untuk memasukkan jumlah buku dan waktu baca buku secara berurutan, kemudian kode akan menghitung total waktu minimum yang diperlukan.
+Setiap baris kode didokumentasikan secara ringkas namun jelas menggunakan komentar. Pengguna diminta untuk memasukkan jumlah buku dan waktu baca buku secara berurutan, <br> kemudian kode akan menghitung total waktu minimum yang diperlukan.
