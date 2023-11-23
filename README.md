@@ -1,6 +1,6 @@
 # Reading Books
 
-<b> Deskripsi Masalah </b> <br>
+<b> Deskripsi </b> <br>
 
 Terdapat sejumlah buku yang perlu dibaca, dengan setiap buku memiliki waktu baca tertentu. Tujuan dari kode ini adalah untuk mencari total waktu minimum yang diperlukan untuk membaca seluruh koleksi buku, dengan aturan bahwa kedua pembaca tidak bisa membaca lebih dari satu buku secara bersamaan.
 
